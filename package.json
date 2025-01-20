@@ -1,0 +1,23 @@
+{
+  "name": "multi-stage-dockerfile",
+  "version": "1.0.0",
+  "description": "Reducing Docker image build time by Caching Node modules, and using a multi-stage build process",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihusnainalii/multi-stage-dockerfile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ihusnainalii/multi-stage-dockerfile/issues"
+  },
+  "homepage": "https://github.com/ihusnainalii/multi-stage-dockerfile#readme",
+  "dependencies": {
+    "b": "^2.0.1",
+    "urid": "^1.1.0"
+  }
+}
